@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/gpucf/src/gpucf/algorithms/steps/CompactClusters.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/gpucf/src/gpucf/algorithms/steps/CompactClusters.h">
+<area shape="rect" id="node2" href="$de/de6/ClusterFinderState_8h.html" title="gpucf/algorithms/Cluster\lFinderState.h" alt="" coords="635,139,799,180"/>
+<area shape="rect" id="node16" href="$da/dee/StreamCompaction_8h.html" title="gpucf/algorithms/StreamCompaction.h" alt="" coords="917,146,1162,173"/>
+<area shape="rect" id="node3" href="$da/dac/ClusterFinderConfig_8h.html" title="gpucf/algorithms/Cluster\lFinderConfig.h" alt="" coords="179,303,343,344"/>
+<area shape="rect" id="node9" href="$da/d41/ClEnv_8h.html" title="gpucf/common/ClEnv.h" alt="" coords="576,228,735,255"/>
+<area shape="rect" id="node4" href="$dc/db2/ChargemapLayout_8h.html" title="gpucf/algorithms/Chargemap\lLayout.h" alt="" coords="334,392,523,433"/>
+<area shape="rect" id="node6" href="$d4/d9b/ClusterBuilder_8h.html" title="gpucf/algorithms/Cluster\lBuilder.h" alt="" coords="5,392,169,433"/>
+<area shape="rect" id="node17" href="$d6/d8d/Event_8h.html" title="gpucf/common/Event.h" alt="" coords="1247,228,1405,255"/>
+<area shape="rect" id="node21" href="$d7/d88/Measurements_8h.html" title="gpucf/common/Measurements.h" alt="" coords="935,228,1144,255"/>
+<area shape="rect" id="node18" href="$d7/d66/Timestamp_8h.html" title="gpucf/common/Timestamp.h" alt="" coords="1232,310,1420,337"/>
+</map>

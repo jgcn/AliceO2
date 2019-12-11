@@ -1,0 +1,25 @@
+var config_8h =
+[
+    [ "ACCESS_2D", "db/d16/config_8h.html#a09f0c28f395c53a23b8fe1bafba4c040", null ],
+    [ "CHARGE", "db/d16/config_8h.html#afb9b574df1746bd3a7ab9641cf28e617", null ],
+    [ "IS_PEAK", "db/d16/config_8h.html#aa01257274f50c02f3619a412b59ce217", null ],
+    [ "LOOP_UNROLL_ATTR", "db/d16/config_8h.html#a973a2828f7b2603eb6a0020e7a01c891", null ],
+    [ "SCRATCH_PAD_BUILD_N", "db/d16/config_8h.html#af96851afd07faf5cacad8e0cd90fb58f", null ],
+    [ "SCRATCH_PAD_COUNT_N", "db/d16/config_8h.html#ab96f5439a7313246d7c71ee9fe4a38fb", null ],
+    [ "SCRATCH_PAD_NOISE_N", "db/d16/config_8h.html#afc5ebd49790cb51bbda76ca1628090b4", null ],
+    [ "SCRATCH_PAD_SEARCH_N", "db/d16/config_8h.html#a551f46864896610e95f402225b75feae", null ],
+    [ "charge_t", "db/d16/config_8h.html#ab6fa798f10cf99399c90129502c63606", null ],
+    [ "Digit", "db/d16/config_8h.html#a42a6db01132c04192dc3e7aa0dc67230", null ],
+    [ "GPUdi", "db/d16/config_8h.html#adb85b0a6ee6f4b610629678ab62f3fb7", null ],
+    [ "return", "db/d16/config_8h.html#acab5d98195409ad96a0be6c88e116963", null ],
+    [ "gpad", "db/d16/config_8h.html#a6fb11f3e52a1aeecbbbaf0c538cae8c3", null ],
+    [ "inTilePad", "db/d16/config_8h.html#ac48b08c880ddba22ab9686f25cbe7ae3", null ],
+    [ "inTileTime", "db/d16/config_8h.html#ac91675e584c5789a183d9b74b5ecb7c5", null ],
+    [ "N", "db/d16/config_8h.html#aa2a053810c6e50c0c712407f35e91b7c", null ],
+    [ "tileH", "db/d16/config_8h.html#a99b76b59641a802a910e11d548fcb6de", null ],
+    [ "tilePad", "db/d16/config_8h.html#a2db97f9265ae9e7a087c2dc1d8a57252", null ],
+    [ "tileTime", "db/d16/config_8h.html#a7e5bdc7943ae2ac246fd8568374ee8e5", null ],
+    [ "tileW", "db/d16/config_8h.html#a7fd9fe91aebd3926305c7d182ddec471", null ],
+    [ "time", "db/d16/config_8h.html#a8b8dfe2335a5bf90695960dc6a1c5d3b", null ],
+    [ "widthInTiles", "db/d16/config_8h.html#af4ac2fbe6428a47cf1074cf43b487d44", null ]
+];

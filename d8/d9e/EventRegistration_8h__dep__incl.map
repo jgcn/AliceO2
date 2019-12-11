@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/Base/include/EventVisualisationBase/EventRegistration.h" name="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/Base/include/EventVisualisationBase/EventRegistration.h">
+<area shape="rect" id="node2" href="$dd/d4b/EventRegistration_8cxx.html" title="breaking link dependency between EventVisualisation modules (here MultiView can register) ..." alt="" coords="5,146,183,217"/>
+<area shape="rect" id="node3" href="$dd/d02/DataReaderVSD_8cxx.html" title="VSD specific reading from file(s) (Visualisation Summary Data) " alt="" coords="207,146,402,217"/>
+<area shape="rect" id="node4" href="$d7/d29/MultiView_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/EventVisualisation/View\l/include/EventVisualisationView\l/MultiView.h" alt="" coords="426,139,634,224"/>
+<area shape="rect" id="node5" href="$dd/d21/EventManager_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/EventVisualisation/View\l/src/EventManager.cxx" alt="" coords="139,272,305,343"/>
+<area shape="rect" id="node6" href="$d0/dc0/EventManagerFrame_8cxx.html" title="GUI (bottom buttons) for visualisation. " alt="" coords="330,272,525,343"/>
+<area shape="rect" id="node7" href="$df/d2a/Initializer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/EventVisualisation/View\l/src/Initializer.cxx" alt="" coords="549,272,716,343"/>
+<area shape="rect" id="node8" href="$da/d7a/MultiView_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/EventVisualisation/View\l/src/MultiView.cxx" alt="" coords="740,272,907,343"/>
+</map>

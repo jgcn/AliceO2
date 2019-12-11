@@ -1,0 +1,35 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/gpucf/src/gpucf/algorithms/ClusterFinder.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/gpucf/src/gpucf/algorithms/ClusterFinder.h">
+<area shape="rect" id="node2" href="$d3/d45/steps_8h.html" title="gpucf/algorithms/steps\l/steps.h" alt="" coords="692,124,847,165"/>
+<area shape="rect" id="node3" href="$de/de6/ClusterFinderState_8h.html" title="gpucf/algorithms/Cluster\lFinderState.h" alt="" coords="1197,288,1361,329"/>
+<area shape="rect" id="node17" href="$d9/da0/Kernel1D_8h.html" title="gpucf/common/Kernel1D.h" alt="" coords="341,295,518,322"/>
+<area shape="rect" id="node22" href="$dc/dd3/ClusterToCPU_8h.html" title="ClusterToCPU.h" alt="" coords="2018,213,2137,240"/>
+<area shape="rect" id="node43" href="$d8/d2a/CompactPeaks_8h.html" title="CompactPeaks.h" alt="" coords="968,213,1091,240"/>
+<area shape="rect" id="node48" href="$dd/d66/ComputeCluster_8h.html" title="ComputeCluster.h" alt="" coords="635,213,763,240"/>
+<area shape="rect" id="node49" href="$d2/d0e/CountPeaks_8h.html" title="CountPeaks.h" alt="" coords="787,213,893,240"/>
+<area shape="rect" id="node50" href="$d1/dd8/DigitsToGPU_8h.html" title="DigitsToGPU.h" alt="" coords="690,295,801,322"/>
+<area shape="rect" id="node51" href="$da/d5d/FillChargeMap_8h.html" title="FillChargeMap.h" alt="" coords="5,213,123,240"/>
+<area shape="rect" id="node52" href="$db/dc8/FindPeaks_8h.html" title="FindPeaks.h" alt="" coords="147,213,242,240"/>
+<area shape="rect" id="node53" href="$d2/db1/GPUNoiseSuppression_8h.html" title="GPUNoiseSuppression.h" alt="" coords="267,213,435,240"/>
+<area shape="rect" id="node54" href="$da/d63/ResetMaps_8h.html" title="ResetMaps.h" alt="" coords="459,213,559,240"/>
+<area shape="rect" id="node4" href="$da/dac/ClusterFinderConfig_8h.html" title="gpucf/algorithms/Cluster\lFinderConfig.h" alt="" coords="2710,452,2874,493"/>
+<area shape="rect" id="node10" href="$da/d41/ClEnv_8h.html" title="gpucf/common/ClEnv.h" alt="" coords="2165,377,2323,404"/>
+<area shape="rect" id="node5" href="$dc/db2/ChargemapLayout_8h.html" title="gpucf/algorithms/Chargemap\lLayout.h" alt="" coords="2703,541,2892,583"/>
+<area shape="rect" id="node7" href="$d4/d9b/ClusterBuilder_8h.html" title="gpucf/algorithms/Cluster\lBuilder.h" alt="" coords="2514,541,2678,583"/>
+<area shape="rect" id="node18" href="$d6/d8d/Event_8h.html" title="gpucf/common/Event.h" alt="" coords="477,377,635,404"/>
+<area shape="rect" id="node19" href="$d7/d66/Timestamp_8h.html" title="gpucf/common/Timestamp.h" alt="" coords="651,549,839,575"/>
+<area shape="rect" id="node23" href="$d5/d08/buffer_8h.html" title="gpucf/common/buffer.h" alt="" coords="761,377,917,404"/>
+<area shape="rect" id="node25" href="$d1/d5c/GPU_2GPUTracking_2gpucf_2src_2gpucf_2common_2Cluster_8h.html" title="gpucf/common/Cluster.h" alt="" coords="1995,295,2160,322"/>
+<area shape="rect" id="node39" href="$d7/d7f/log_8h.html" title="gpucf/common/log.h" alt="" coords="2950,459,3090,486"/>
+<area shape="rect" id="node42" href="$d9/d46/RowInfo_8h.html" title="gpucf/common/RowInfo.h" alt="" coords="2514,459,2686,486"/>
+<area shape="rect" id="node26" href="$d4/db0/GPU_2GPUTracking_2gpucf_2src_2gpucf_2common_2Digit_8h.html" title="gpucf/common/Digit.h" alt="" coords="1654,377,1805,404"/>
+<area shape="rect" id="node27" href="$db/dbf/Object_8h.html" title="gpucf/common/Object.h" alt="" coords="886,459,1047,486"/>
+<area shape="rect" id="node38" href="$da/d24/GPU_2GPUTracking_2gpucf_2cl_2shared_2ClusterNative_8h.html" title="shared/ClusterNative.h" alt="" coords="2777,638,2933,665"/>
+<area shape="rect" id="node29" href="$d9/d5a/RawDigit_8h.html" title="gpucf/common/RawDigit.h" alt="" coords="1535,459,1713,486"/>
+<area shape="rect" id="node31" href="$d9/dfc/SectorMap_8h.html" title="gpucf/common/SectorMap.h" alt="" coords="1745,549,1932,575"/>
+<area shape="rect" id="node35" href="$dd/d50/serialization_8h.html" title="gpucf/common/serialization.h" alt="" coords="1737,459,1929,486"/>
+<area shape="rect" id="node37" href="$d0/d95/GPU_2GPUTracking_2gpucf_2cl_2shared_2Digit_8h.html" title="shared/Digit.h" alt="" coords="1357,459,1459,486"/>
+<area shape="rect" id="node32" href="$d9/d09/tpc_8h.html" title="shared/tpc.h" alt="" coords="1791,638,1886,665"/>
+<area shape="rect" id="node33" href="$d9/d49/types_8h.html" title="types.h" alt="" coords="2314,720,2379,747"/>
+<area shape="rect" id="node44" href="$da/dee/StreamCompaction_8h.html" title="gpucf/algorithms/StreamCompaction.h" alt="" coords="876,295,1121,322"/>
+<area shape="rect" id="node45" href="$d7/d88/Measurements_8h.html" title="gpucf/common/Measurements.h" alt="" coords="1071,459,1281,486"/>
+</map>

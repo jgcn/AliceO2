@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/Common/GPUCommonAlgorithm.h" name="/home/travis/build/AliceO2Group/AliceO2/GPU/Common/GPUCommonAlgorithm.h">
+<area shape="rect" id="node2" href="$d9/d57/GPUTPCCompressionKernels_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/DataCompression\l/GPUTPCCompressionKernels.cxx" alt="" coords="5,109,252,180"/>
+<area shape="rect" id="node3" href="$d2/d3e/GPUdEdx_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/dEdx\l/GPUdEdx.cxx" alt="" coords="276,109,448,180"/>
+<area shape="rect" id="node4" href="$d8/db5/GPUTPCClusterFinderKernels_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/gpucf\l/GPUTPCClusterFinderKernels.cxx" alt="" coords="473,109,702,180"/>
+<area shape="rect" id="node5" href="$d9/d33/GPUTRDTracker_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/GPU/GPUTracking/TRDTracking\l/GPUTRDTracker.cxx" alt="" coords="727,109,947,180"/>
+</map>

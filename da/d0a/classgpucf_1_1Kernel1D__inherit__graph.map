@@ -1,0 +1,7 @@
+<map id="gpucf::Kernel1D" name="gpucf::Kernel1D">
+<area shape="rect" id="node2" href="$db/d3d/classgpucf_1_1ComputeCluster.html" title="{gpucf::ComputeCluster\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="5,189,163,281"/>
+<area shape="rect" id="node3" href="$d8/d88/classgpucf_1_1CountPeaks.html" title="{gpucf::CountPeaks\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="187,189,325,281"/>
+<area shape="rect" id="node4" href="$d8/de4/classgpucf_1_1FillChargeMap.html" title="{gpucf::FillChargeMap\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="349,189,496,281"/>
+<area shape="rect" id="node5" href="$d7/d29/classgpucf_1_1FindPeaks.html" title="{gpucf::FindPeaks\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="520,189,659,281"/>
+<area shape="rect" id="node6" href="$d8/d9f/classgpucf_1_1ResetMaps.html" title="{gpucf::ResetMaps\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="683,189,821,281"/>
+</map>

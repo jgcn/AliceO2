@@ -1,0 +1,16 @@
+<map id="gpucf::ClusterFinderTest" name="gpucf::ClusterFinderTest">
+<area shape="rect" id="node2" href="$d3/d32/classgpucf_1_1ClusterFinder.html" title="{gpucf::ClusterFinder\n||+ ClusterFinder()\l}" alt="" coords="932,645,1072,723"/>
+<area shape="rect" id="node3" href="$df/d03/structgpucf_1_1ClusterFinderState.html" title="{gpucf::ClusterFinderState\n||+ ClusterFinderState()\l}" alt="" coords="70,476,241,553"/>
+<area shape="rect" id="node5" href="$dd/de2/classsize__t.html" title="{size_t\n||}" alt="" coords="127,175,184,252"/>
+<area shape="rect" id="node6" href="$da/daa/structgpucf_1_1ClusterFinderConfig.html" title="{gpucf::ClusterFinderConfig\n||}" alt="" coords="219,175,398,252"/>
+<area shape="rect" id="node9" href="$d8/de4/classgpucf_1_1FillChargeMap.html" title="{gpucf::FillChargeMap\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="265,469,411,561"/>
+<area shape="rect" id="node10" href="$d3/d20/classgpucf_1_1Kernel1D.html" title="{gpucf::Kernel1D\n||+ Kernel1D()\l+ getName()\l+ getEvent()\l+ setArg()\l+ call()\l}" alt="" coords="609,145,725,281"/>
+<area shape="rect" id="node13" href="$d8/d9f/classgpucf_1_1ResetMaps.html" title="{gpucf::ResetMaps\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="435,469,574,561"/>
+<area shape="rect" id="node14" href="$d7/d29/classgpucf_1_1FindPeaks.html" title="{gpucf::FindPeaks\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="598,469,737,561"/>
+<area shape="rect" id="node16" href="$d8/d88/classgpucf_1_1CountPeaks.html" title="{gpucf::CountPeaks\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="761,469,899,561"/>
+<area shape="rect" id="node17" href="$db/d3d/classgpucf_1_1ComputeCluster.html" title="{gpucf::ComputeCluster\n||+ DECL_KERNEL()\l+ call()\l}" alt="" coords="923,469,1081,561"/>
+<area shape="rect" id="node12" href="$d5/d63/classgpucf_1_1CompactPeaks.html" title="{gpucf::CompactPeaks\n||+ CompactPeaks()\l+ call()\l+ compactFilteredPeaks()\l+ step()\l+ stepFiltered()\l}" alt="" coords="1105,447,1277,583"/>
+<area shape="rect" id="node18" href="$d5/d40/classgpucf_1_1GPUNoiseSuppression.html" title="{gpucf::GPUNoiseSuppression\n||+ GPUNoiseSuppression()\l+ call()\l+ asStep()\l}" alt="" coords="1446,461,1643,568"/>
+<area shape="rect" id="node19" href="$de/d12/classgpucf_1_1DigitsToGPU.html" title="{gpucf::DigitsToGPU\n||+ call()\l}" alt="" coords="1668,476,1808,553"/>
+<area shape="rect" id="node20" href="$de/dd3/classgpucf_1_1ClusterToCPU.html" title="{gpucf::ClusterToCPU\n||+ call()\l}" alt="" coords="1832,476,1980,553"/>
+</map>

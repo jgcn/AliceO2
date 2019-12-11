@@ -1,0 +1,6 @@
+<map id="sg_shader_desc" name="sg_shader_desc">
+<area shape="rect" id="node3" href="$d9/d32/structsg__shader__stage__desc.html" title="{sg_shader_stage_desc\n||}" alt="" coords="171,455,327,532"/>
+<area shape="rect" id="node4" href="$dd/d8f/structsg__shader__image__desc.html" title="{sg_shader_image_desc\n||}" alt="" coords="5,145,164,223"/>
+<area shape="rect" id="node9" href="$d2/d67/structsg__shader__uniform__desc.html" title="{sg_shader_uniform_desc\n||}" alt="" coords="245,145,412,223"/>
+<area shape="rect" id="node8" href="$dd/d14/structsg__shader__uniform__block__desc.html" title="{sg_shader_uniform_block_desc\n||}" alt="" coords="239,315,445,392"/>
+</map>

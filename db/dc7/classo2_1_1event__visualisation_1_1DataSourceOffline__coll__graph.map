@@ -1,0 +1,4 @@
+<map id="o2::event_visualisation::DataSourceOffline" name="o2::event_visualisation::DataSourceOffline">
+<area shape="rect" id="node2" href="$d2/d70/classo2_1_1event__visualisation_1_1DataSource.html" title="{o2::event_visualisation\l::DataSource\n||+ getEventData()\l+ GetEventCount()\l+ DataSource()\l+ ~DataSource()\l+ DataSource()\l+ operator=()\l}" alt="" coords="5,5,160,171"/>
+<area shape="rect" id="node3" href="$d9/ded/classo2_1_1event__visualisation_1_1DataReader.html" title="{o2::event_visualisation\l::DataReader\n||+ GetEventCount()\l+ ~DataReader()\l+ open()\l+ getEventData()\l}" alt="" coords="184,20,339,156"/>
+</map>

@@ -1,0 +1,16 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/gpucf/src" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_4515da4bbbd61710971ca81238ef3af5 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="gpucf" fontname="Helvetica", fontsize="10", URL="dir_4515da4bbbd61710971ca81238ef3af5.html"]
+  subgraph clusterdir_05bfdb3cd71dc8d0b6fa23df2524c19f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_05bfdb3cd71dc8d0b6fa23df2524c19f.html"];
+    dir_05bfdb3cd71dc8d0b6fa23df2524c19f [shape=plaintext label="src"];
+    dir_1f37fe911f5f6fdd23ae7f4624eb6bed [shape=box label="gpucf" color="red" fillcolor="white" style="filled" URL="dir_1f37fe911f5f6fdd23ae7f4624eb6bed.html"];
+  }
+  }
+  dir_35e454b4a34cef037ce642c7cd222bdd [shape=box label="cl" color="red" URL="dir_35e454b4a34cef037ce642c7cd222bdd.html"];
+  dir_1f37fe911f5f6fdd23ae7f4624eb6bed->dir_35e454b4a34cef037ce642c7cd222bdd [headlabel="5", labeldistance=1.5 headhref="dir_000099_000147.html"];
+}

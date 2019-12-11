@@ -1,0 +1,11 @@
+<map id="sg_pipeline_desc" name="sg_pipeline_desc">
+<area shape="rect" id="node2" href="$d9/dd6/structsg__blend__state.html" title="{sg_blend_state\n||}" alt="" coords="491,359,602,436"/>
+<area shape="rect" id="node5" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="698,175,744,252"/>
+<area shape="rect" id="node23" href="$d9/dbf/structsg__rasterizer__state.html" title="{sg_rasterizer_state\n||}" alt="" coords="1108,359,1241,436"/>
+<area shape="rect" id="node19" href="$d5/d6c/structsg__depth__stencil__state.html" title="{sg_depth_stencil_state\n||}" alt="" coords="1670,359,1826,436"/>
+<area shape="rect" id="node14" href="$d5/d83/structsg__vertex__attr__desc.html" title="{sg_vertex_attr_desc\n||}" alt="" coords="1700,175,1840,252"/>
+<area shape="rect" id="node17" href="$dc/da3/structsg__buffer__layout__desc.html" title="{sg_buffer_layout_desc\n||}" alt="" coords="1459,175,1612,252"/>
+<area shape="rect" id="node26" href="$da/d75/structsg__shader.html" title="{sg_shader\n||}" alt="" coords="2265,359,2348,436"/>
+<area shape="rect" id="node13" href="$d1/d64/structsg__layout__desc.html" title="{sg_layout_desc\n||}" alt="" coords="1532,359,1646,436"/>
+<area shape="rect" id="node20" href="$d6/d2c/structsg__stencil__state.html" title="{sg_stencil_state\n||}" alt="" coords="2128,175,2245,252"/>
+</map>

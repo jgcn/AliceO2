@@ -1,0 +1,31 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$db/dfe/classFileError.html" title="FileError\&lt; isDirectory \&gt;" alt="" coords="163,93,321,119"/>
+<area shape="rect" id="node3" href="$de/df2/classnlohmann_1_1detail_1_1exception.html" title="general exception of the basic_json class " alt="" coords="151,143,333,170"/>
+<area shape="rect" id="node9" href="$d5/dfa/classo2_1_1emcal_1_1AltroDecoderError.html" title="Error handling of the ALTRO Decoder. " alt="" coords="147,194,337,221"/>
+<area shape="rect" id="node10" href="$d3/d23/classo2_1_1emcal_1_1CalibDB_1_1ObjectNotFoundException.html" title="Handling errors due to objects not found in the CCDB. " alt="" coords="151,245,333,287"/>
+<area shape="rect" id="node11" href="$de/df6/classo2_1_1emcal_1_1CalibDB_1_1TypeMismatchException.html" title="Class handling errors of wrong type of a query result. " alt="" coords="155,311,329,352"/>
+<area shape="rect" id="node12" href="$d5/d6b/classo2_1_1emcal_1_1Channel_1_1HardwareAddressError.html" title="Handling of uninitialized hardware addresses. " alt="" coords="161,376,323,417"/>
+<area shape="rect" id="node13" href="$dd/d04/classo2_1_1emcal_1_1Cluster_1_1InvalidPositionException.html" title="o2::emcal::Cluster\l::InvalidPositionException" alt="" coords="155,441,329,483"/>
+<area shape="rect" id="node14" href="$dc/d28/classo2_1_1emcal_1_1DMAOutputStream_1_1OutputFileException.html" title="o2::emcal::DMAOutputStream\l::OutputFileException" alt="" coords="143,507,341,548"/>
+<area shape="rect" id="node15" href="$d8/d3d/classo2_1_1emcal_1_1InvalidCellIDException.html" title="Exception handling non&#45;existing cell IDs. " alt="" coords="132,573,352,599"/>
+<area shape="rect" id="node16" href="$d0/da5/classo2_1_1emcal_1_1InvalidChanneltypeException.html" title="Error handling invalid channel types. " alt="" coords="143,624,341,665"/>
+<area shape="rect" id="node17" href="$d0/d03/classo2_1_1emcal_1_1InvalidModuleException.html" title="Error Handling when an invalid module ID (outside the limits) is called. " alt="" coords="159,689,325,731"/>
+<area shape="rect" id="node18" href="$d9/d6a/classo2_1_1emcal_1_1InvalidPositionException.html" title="Exception handling errors due to positions not in the EMCAL area. " alt="" coords="156,755,328,796"/>
+<area shape="rect" id="node19" href="$d8/d89/classo2_1_1emcal_1_1InvalidSupermoduleTypeException.html" title="Exception handling improper or uninitialized supermodule types. " alt="" coords="141,820,343,861"/>
+<area shape="rect" id="node20" href="$df/d5f/classo2_1_1emcal_1_1Mapper_1_1AddressNotFoundException.html" title="Error handling requests for unknown hardware addresses. " alt="" coords="149,885,335,927"/>
+<area shape="rect" id="node21" href="$d7/dd2/classo2_1_1emcal_1_1Mapper_1_1AddressRangeException.html" title="o2::emcal::Mapper::\lAddressRangeException" alt="" coords="159,951,325,992"/>
+<area shape="rect" id="node22" href="$da/d7b/classo2_1_1emcal_1_1Mapper_1_1ChannelNotFoundException.html" title="Exception handling invalid channel ID. " alt="" coords="149,1016,335,1057"/>
+<area shape="rect" id="node23" href="$d1/d91/classo2_1_1emcal_1_1Mapper_1_1FileFormatException.html" title="Error handling for invalid file format. " alt="" coords="171,1081,313,1123"/>
+<area shape="rect" id="node24" href="$d5/d59/classo2_1_1emcal_1_1Mapper_1_1InitStatusException.html" title="Error handling requests to not properly initialized mapping object. " alt="" coords="173,1147,311,1188"/>
+<area shape="rect" id="node25" href="$d7/d93/classo2_1_1emcal_1_1MappingHandler_1_1DDLInvalid.html" title="Error handling for invalid DDL IDs (not in range for EMCAL) " alt="" coords="151,1212,333,1253"/>
+<area shape="rect" id="node26" href="$db/df9/classo2_1_1emcal_1_1RawDecodingError.html" title="Error handling of the raw reader. " alt="" coords="143,1278,341,1305"/>
+<area shape="rect" id="node27" href="$d6/d82/classo2_1_1emcal_1_1RCUTrailer_1_1Error.html" title="Error handling of the. " alt="" coords="165,1329,319,1371"/>
+<area shape="rect" id="node28" href="$d5/d7d/classo2_1_1emcal_1_1SupermoduleIndexException.html" title="Handling error due to invalid supermodule. " alt="" coords="145,1395,339,1436"/>
+<area shape="rect" id="node29" href="$d3/d0a/classo2_1_1phos_1_1CalibDB_1_1ObjectNotFoundException.html" title="Handling errors due to objects not found in the CCDB. " alt="" coords="155,1460,329,1501"/>
+<area shape="rect" id="node30" href="$db/d00/classo2_1_1phos_1_1CalibDB_1_1TypeMismatchException.html" title="Class handling errors of wrong type of a query result. " alt="" coords="159,1525,325,1567"/>
+<area shape="rect" id="node4" href="$d4/d5f/classnlohmann_1_1detail_1_1invalid__iterator.html" title="exception indicating errors with iterators " alt="" coords="400,5,563,47"/>
+<area shape="rect" id="node5" href="$d5/d1b/classnlohmann_1_1detail_1_1other__error.html" title="exception indicating other library errors " alt="" coords="404,71,559,112"/>
+<area shape="rect" id="node6" href="$d2/d67/classnlohmann_1_1detail_1_1out__of__range.html" title="exception indicating access out of the defined range " alt="" coords="410,136,553,177"/>
+<area shape="rect" id="node7" href="$d5/d1a/classnlohmann_1_1detail_1_1parse__error.html" title="exception indicating a parse error " alt="" coords="403,201,560,243"/>
+<area shape="rect" id="node8" href="$da/d1c/classnlohmann_1_1detail_1_1type__error.html" title="exception indicating executing a member function with a wrong type " alt="" coords="406,267,557,308"/>
+</map>
